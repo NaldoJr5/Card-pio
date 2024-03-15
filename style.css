@@ -1,0 +1,80 @@
+body {
+  font-family: "Permanent Marker", cursive;
+  background-image: url(images/Hamburguer-1200.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#gg {
+  display: block;
+  margin: -80px 50px 20px 20px;
+  width: 75px;
+}
+
+h1 {
+  font-size: 40px;
+  margin-top: 0;
+  margin-bottom: 15px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+span {
+  color: #ff8000;
+}
+
+
+hr {
+  height: 2px;
+  background-color: white;
+  border-color: firebrick;
+}
+
+.bottom-line {
+  margin-top: 25px;
+}
+
+
+.menu {
+  background-color: black;
+  background-image: url(./images/Div.jpg);
+  background-size: cover;
+  width: 80%;
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px 20px 20px 20px;
+  border-radius: 30px;
+}
+
+h1, h2, p {
+  color: firebrick;
+  text-align: center;
+}
+
+.hambúrguer, .drinks {
+  width: 75%;
+  text-align: left;
+}
+
+.price {
+  width: 25%;
+  text-align: right;
+}
+
+.option p {
+  display: inline-block;
+  font-size: 18px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+
+/*FOOTER*/
+
+footer {
+  font-size: 14px;
+  text-align: center;
+}
